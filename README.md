@@ -5,6 +5,9 @@ SpringLegacyProject 연습<br/>
 SpringLegacyProject를 통해 Spring MVC 패턴을 익히는 것을 목적으로 진행.<br/>
 DB : Oracle 11<br/>
 ojdbc8 / mybatis(3.5.9) 사용 <br/>
+API : javax.mail(1.4.7)
+
+
 <br/>
 -실행 전 유의 사항-<br/>
 ServletConfig.java 의 45행 resolver.setUploadTemDir() 파일 경로를 설정해줘야 작동 됨.<br/>
