@@ -1,4 +1,4 @@
-# ShoppingMallMiniProject<br/>
+# ShoppingMall ToyProject<br/>
 SpringLegacyProject 연습<br/>
 <br/>
 -개요-<br/>
